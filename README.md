@@ -1,1 +1,1 @@
-# junior-dev-interview
+# Sprint1 Junior Developer Interview
