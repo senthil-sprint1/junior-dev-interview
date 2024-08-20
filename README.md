@@ -1,6 +1,6 @@
 # Sprint1 Junior Developer Interview
 
-Thank you for your interest in Sprint1. We are are a venture studio specializing in early stage SaaS/AI startups. We invest and co-build tech startups with first-time non-technical founders. You will be helping use to build startups from scratch.
+Thank you for your interest in Sprint1. We are are a venture studio specializing in early stage SaaS/AI startups. We invest and co-build tech startups with first-time non-technical founders. You will be helping us to build startups from scratch.
 
 # Few things to know before you being
 - You can pick any programming language you are comfortable with.
