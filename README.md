@@ -9,15 +9,23 @@ Thank you for your interest in Sprint1. We are are a venture studio specializing
 
 # Interview Process
 - Create your own github repository.
-- Read the problems listed below.- 
-- Use your favorite IDE and programming language to solve each problem.
-- Create a file with the following, start time, end time, question and your answer.
+- Read the questions and problems listed below.
+- Create answers.txt and start checking in your answers.
+- To solve the problems, use your favorite IDE and programming language to solve each problem.
+- Create a file for each question with the following details problem and your answer.
 - Commit the change.
-- Move on to the next problem and repeast from `Step 3` until you solve all problems.
-- Share your `github` repository with `senthil@sprint1.vc`
+- Move on to the next problem and repeat.
+- Share your `github` repository with `senthil@sprint1.vc` or make it public and share it with this email.
+
+# Questions
+Use this scale to rate the following questions. (0: No experience, 3: Some experience, 7: I can hit the ground running, 10: I am a world class expert)
+- How would you rate your experience/expertise in web application development?
+- How would you rate your experience/expertise in mobile application development?
+- How would you rate your experience/expertise in building AI applications?
+- How would you rate your experience/expertise in AWS?
 
 # Problems
-- Print "Hello World"
+- Print "Hello World" in reverse.
 - Write a function that takes an array of numbers and returns a new array with numbers sorted from smaller to larger.
 - Write a function that takes an array of numbers and returns the same array with numbers sorted from smaller to larger. You need to modify the input array instead of creating new array.
 - Write a function that takes an array and reverses it? You need to modify the input array instead of creating new array.
